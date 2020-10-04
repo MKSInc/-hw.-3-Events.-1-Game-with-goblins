@@ -1,6 +1,7 @@
 {
   "name": "AHJ-hw.-3-Events.-1-Game-with-goblins",
   "version": "1.0.0",
+  "private": true,
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js",
